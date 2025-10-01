@@ -2,22 +2,22 @@
 
 🎓 **Undergraduate Student**  
 💻 **Computer Science Major** at **Brac University**  
-🌐 **Web Developer & ML Enthusiast**  
+🌐 **Web Developer | Flutter Developer | ML Enthusiast** 
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about software development, data science, and web technologies. My main interests lie in developing intuitive user experiences, working with modern frameworks, and solving complex problems.
+I'm passionate about **software development, mobile & web technologies, and machine learning**. I enjoy building projects that deliver intuitive user experiences, leverage modern frameworks, and solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, PHP
-- **Frameworks**: Django, Laravel
+- **Languages**: Python, JavaScript, PHP, Dart
+- **Frameworks**: Django, Laravel, Flutter
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: MySQL, PostgreSQL, SQLite
+- **Database**: MySQL, PostgreSQL, SQLite, Hive
 - **Tools**: GitHub, VS Code, Excel
 - **Data Science & ML**: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn.
 
@@ -25,6 +25,11 @@ I'm passionate about software development, data science, and web technologies. M
 
 ## 📈 My Projects
 
+### 📱 Mobile Application Projects
+
+- [**FitMeal – Diet & Exercise Tracker**](https://github.com/fahim1708/FitMeal-Diet_and_Exercise_Tracker): **FitMeal** is a **Flutter-powered mobile app** for tracking daily meals, calories, workouts, and weight trends. It integrates **Google Gemini AI** to generate personalized meal plans and answer health-related questions.      
+    All data is stored locally using **Hive DB** for full offline support.
+  
 ### 🌐 Web Application Projects
 I've developed several web applications using Python, PHP, and frameworks like Django and Laravel. These include:
 
