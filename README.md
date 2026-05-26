@@ -53,6 +53,8 @@ I've created several machine learning projects leveraging libraries like Scikit-
 
 I've developed several web scraping projects using Python and libraries like **BeautifulSoup** and **Selenium**. These include:
 
+- [**Web Scraper for Fiverr Keyword_Analysis Using_Selenium**](https://github.com/fahim1708/Web_Scraper_for_Fiverr_Keyword_Analysis_Using_Selenium): A Python-based web scraping and keyword analysis project that collects Fiverr gig and freelancer data using Selenium, then identifies high-frequency keywords from top-ranked gigs to support SEO and content strategy research.
+
 - [**YouTube Comments Scraping**](https://github.com/fahim1708/Youtube-Comments-Scraping): Efficiently extracts comments from YouTube videos using Selenium and BeautifulSoup, saving them in a CSV file for sentiment analysis or further processing.
 - [**Scraping Amazon Product (Book) Data**](https://github.com/fahim1708/Web-Scraping-Amazon-Products): Python-based web scraper to extract product, book, details (`Author, Title, Rating, Rating Amount, ,Type, Price`) from Amazon pages for market research and price monitoring.
 
