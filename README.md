@@ -34,8 +34,8 @@ With a strong foundation in software engineering principles, data structure-algo
 ### 🌐 Web Application Projects
 I've developed several web applications using Python, PHP, and frameworks like Django and Laravel. These include:
 
-- [**EventUp**](https://github.com/fahim1708/EventUp-Event_Management_Service_Providing_Platform): Django-based platform for event management, including user profiles, package ordering, and reviews.
-- [**Restaurant Management (DineEasy)**](https://github.com/fahim1708/Restaurant_Management-Laravel-Project): Laravel-based system for managing restaurant operations.
+- [**EventUp - Event Management Service Providing Platform**](https://github.com/fahim1708/EventUp-Event_Management_Service_Providing_Platform): Django-based platform for event management, including user profiles, package ordering, and reviews.
+- [**Restaurant Management Website (DineEasy)**](https://github.com/fahim1708/Restaurant_Management-Laravel-Project): Laravel-based system for managing restaurant operations.
 
 ### 🤖 Machine Learning Projects
 I've created several machine learning projects leveraging libraries like Scikit-learn. These include:
