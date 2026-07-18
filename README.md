@@ -1,44 +1,59 @@
 # 👋 Hello, I'm Md. Naimuzzaman Fahim!
 
 🎓 **Computer Science** graduate from **BRAC University**   
-🌐 **Full-Stack Engineer | Flutter Developer | Machine Learning Engineer**
+🌐 **Full-Stack Engineer | AI & Machine Learning Engineer**
 
 ---
 
 ## 🚀 About Me
 
 I am a **Computer Science graduate from BRAC University** passionate about building high-performance software and integrating AI-driven solutions to solve complex, real-world problems. 
-With a strong foundation in software engineering principles, data structure-algorithms, and scalable design, my expertise spans across **Full-Stack Web Development**, Cross-Platform **Mobile Apps (Flutter)**, and **Deep Learning**. I love bridging the gap between robust backend systems and intelligent data models—whether that's optimizing web architectures or implementing advanced neural networks.
+With a strong foundation in software engineering principles, data structure-algorithms, and scalable design, my expertise spans across **Full-Stack Web Development**, Cross-Platform **Mobile Apps (Flutter)**, **Deep Learning** and **AI Agents**. I love bridging the gap between robust backend systems and intelligent data models—whether that's optimizing web architectures or implementing advanced neural networks.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: `Python, JavaScript, PHP, Dart`
-- **Frameworks**: `Django, Laravel, Flutter`
-- **Frontend**: `HTML, CSS, JavaScript`
-- **Database**: `MySQL, PostgreSQL, SQLite, Hive`
-- **Tools**: `GitHub, VS Code, MS Excel / Google Sheet`
+- **Languages**: `Python, JavaScript, SQL, PHP, Dart, HTML, CSS`
+- **Backend & Web**: `Django, FastAPI, Laravel`
+- **AI Frameworks**: `LangGraph, TensorFlow / Keras`
+- **Databases**: `MySQL, PostgreSQL, SQLite, Hive`
+- **Mobile Dev**: `Flutter`
 - **Data Science & ML**: `Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn`
-- **Deep Learning & AI**: `TensorFlow / Keras, LSTMs, Autoencoders (VAE), Neural Networks, Pattern Recognition`
+- **Deep Learning**: `LSTMs, Variational Autoencoders (VAE), Neural Networks, Pattern Recognition`
+- **Automation**: `Selenium, BeautifulSoup`
+- **Tools**: `Git, GitHub, MS Excel / Google Sheet`
+
 
 ---
 
 ## 📈 My Projects
 
-### 📱 Mobile Application Projects
-
-- [**FitMeal – Diet & Exercise Tracker**](https://github.com/fahim1708/FitMeal-Diet_and_Exercise_Tracker): **FitMeal** is a **Flutter-powered mobile app** for tracking daily meals, calories, workouts, and weight trends. It integrates **Google Gemini AI** to generate personalized meal plans and answer health-related questions.      
-    All data is stored locally using **Hive DB** for full offline support.
-  
 ### 🌐 Web Application Projects
-I've developed several web applications using Python, PHP, and frameworks like Django and Laravel. These include:
 
 - [**EventUp - Event Management Service Providing Platform**](https://github.com/fahim1708/EventUp-Event_Management_Service_Providing_Platform): Django-based platform for event management, including user profiles, package ordering, and reviews.
 - [**Restaurant Management Website (DineEasy)**](https://github.com/fahim1708/Restaurant_Management-Laravel-Project): Laravel-based system for managing restaurant operations.
 
-### 🤖 Machine Learning Projects
-I've created several machine learning projects leveraging libraries like Scikit-learn. These include:
+
+### 📱 Mobile Application Projects
+
+- [**FitMeal – Diet & Exercise Tracker**](https://github.com/fahim1708/FitMeal-Diet_and_Exercise_Tracker): **FitMeal** is a **Flutter-powered mobile app** for tracking daily meals, calories, workouts, and weight trends. It integrates **Google Gemini AI** to generate personalized meal plans and answer health-related questions.      
+All data is stored locally using **Hive DB** for full offline support.
+
+- [**Geo Entities App (Flutter, Dart, REST API, Google Maps)**](https://github.com/fahim1708/geo_entities_app):
+Built a mobile application that consumes RESTful APIs to perform Create, Read, Update, and Delete (CRUD)
+operations on **geographic entities**. **Integrated Google Maps** for location visualization, implemented multipart image
+uploads, handled JSON-based API responses, and developed GPS-enabled forms for managing entity data. Features
+include map-based entity discovery, list views, image processing, and real-time synchronization with a remote backend
+service
+
+
+### 🤖 AI Projects
+
+- [**Stayease – Booking Agent**](https://github.com/fahim1708/stayease-booking-agent): **AI booking agent** for StayEase, a short-term rental platform in Bangladesh — built with **LangGraph, FastAPI, and PostgreSQL**. Handles property search, listing details, and bookings via natural conversation, escalating to a human for anything else.
+
+
+### 📈 Machine Learning Projects
 
 - [**Unsupervised Music Genre Clustering with Variational Autoencoders**](https://github.com/fahim1708/Unsupervised_Music_Genre_Clustering_with_Variational_Autoencoders): A Neural Network project performing unsupervised music genre clustering on GTZAN audio features, comparing Variational Autoencoders (VAE, β-VAE, CVAE) against a PCA + K-Means baseline.
 
@@ -76,7 +91,7 @@ This repository contains three computer graphics projects developed as part of m
 
 ## 📫 Connect with Me
 
-- ✉️ **Email**: [mdnaimuzzamanfahim@gmail.com](mailto:mdnaimuzzamanfahim@gmail.com)  
+- ✉️ **Email**: [naimuzzamanfahim71@gmail.com](mailto:naimuzzamanfahim71@gmail.com)  
 - 💼 **LinkedIn**: [Md. Naimuzzaman Fahim](https://www.linkedin.com/in/naimuzzamanfahim/)  
 - 🌐 **Portfolio**: [fahim1708.github.io/My_portfolio](https://fahim1708.github.io/My_portfolio/)  
 
